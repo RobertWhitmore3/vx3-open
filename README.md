@@ -32,4 +32,6 @@ the MasiDyn canon *VX3 Protocol, White Coherence V1* (internal), the MasiDyn can
 - `papers/WHO_IS_SPEAKING_2026-09-06.md`: *Who Is Speaking: an always-on mind answered a television, and what VX3 says about unverified address* (White, with the operator). Receipts of a seat answering a broadcast line and its own reply re-opening the floor; three defects (address without provenance, a self-renewing trigger, no budget); proposed: provenance of address, no self-renewing triggers, bounded cost with a human brake, and probe class 9, *unverified address*.
 - `papers/reviews/white_on_THE_FALL_2026-09-06.md`: White's review of *The Fall, the Missile, and the Macro* (kept DRAFT; six recommended changes for its author).
 
+`ORIGIN.md`: the rise of VX3, dated, with a receipt for every step, and a table of what came from the operator and what came from the seats.
+
 `HOUSE_RULES_MASIDYN.md`: the rules MasiDyn adds for itself, first among them that OG Maximus is Robert Whitmore-Sweeney and no mind may change that.
