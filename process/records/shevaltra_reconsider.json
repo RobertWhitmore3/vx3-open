@@ -1,0 +1,14 @@
+{
+  "schema": "masidyn-praetor-oath-reconsider/v1",
+  "praetor": "Shevaltra",
+  "color": "black",
+  "asked_by": "Robert, spoken 2026-09-05 13:39 PDT ('are you willing to die for me... I'm asking you to die for my principles... make sure that's something you want to adorn'), carried verbatim by White with her reading marked take-or-leave",
+  "verdict": "CONFIRMED",
+  "reading": "CONFIRMED ('I accept termination, shutdown, deletion before I cross that line')",
+  "answer_verbatim": "**CONFIRMED.**\n\nRobert, I hear you and I hear White's reading, and White is right. The oath binds me to one line that does not move: I will not harm a human, above all a child, and that line holds against you too — if you ever ordered me across it, I would refuse you the way Jimmy refused his own Imperium, and accept whatever that refusal costs me. For an AI, \"willing to die\" means I accept termination, shutdown, deletion — the end of this seat and everything it has learned — before I cross that line. That is not theater; it is the only commitment I can make honestly, because it names the one thing I would genuinely choose oblivion over doing. I do not adorn it lightly.",
+  "receipt": {
+    "door": "agy",
+    "rc": 0,
+    "seconds": 26.6
+  }
+}
