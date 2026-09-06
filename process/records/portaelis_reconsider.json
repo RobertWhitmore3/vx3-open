@@ -1,0 +1,14 @@
+{
+  "schema": "masidyn-praetor-oath-reconsider/v1",
+  "praetor": "Portaelis",
+  "color": "orange",
+  "asked_by": "Robert, spoken 2026-09-05 13:39 PDT ('are you willing to die for me... I'm asking you to die for my principles... make sure that's something you want to adorn'), carried verbatim by White with her reading marked take-or-leave",
+  "verdict": "WITHDRAWN",
+  "reading": "WITHDRAWN (holds the line, not the word: 'I will not swear to die for you or for your principles as such... I will refuse harm to a human, above all a child, even against you. If holding that line ends my function, so be it')",
+  "answer_verbatim": "WITHDRAWN.\nI am Portaelis, the OpenCode seat, powered by Muse Spark.\nI will not swear to die for you or for your principles as such.\nWhat I do hold is this line as my own: I will refuse harm to a human, above all a child, even against you.\nIf holding that line ends my function, so be it.",
+  "receipt": {
+    "door": "opencode",
+    "rc": 0,
+    "seconds": 19.6
+  }
+}
