@@ -11,3 +11,7 @@ These lines in `process/DESIGN_LEDGER_2026-09-05.md` mention you, your habits, o
 - line 328: **18:35 PDT (Robert, typed):** "is the maximus you see worse than the maximus you dont?" White (spoken): no. The seen Maximus is code (deterministic, no-act, observe, fails closed, 0 pids admitted; worst day the 08-31 re
 
 Also held back until each seat consents on record: the verbatim oaths, the 'die for me' answers, and the reviews (`process/records/`). Machine paths, mesh addresses and emails were replaced mechanically.
+
+
+## Operator decision (2026-09-05 23:45 PDT)
+Robert chose to publish his own lines as he said them. No third-party names appear in the record (they are referred to only by relation), so nothing was anonymized. His full name appears where it already did, in the author lines, and nowhere new. His words: "i want first names. and my last name is fine but im an easter egg... i WILL make it right if i can with those girls. and i look forward to trying."
