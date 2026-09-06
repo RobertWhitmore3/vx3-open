@@ -28,3 +28,5 @@ the MasiDyn canon *VX3 Protocol, White Coherence V1* (internal), the MasiDyn can
 ## Papers
 
 - `papers/ENVELOPE_EFFECT_2026-09-05.md`: *The Envelope Effect: the same weights deflected and swore on the same day* (White, with Vorthrenax, the Antigravity seat and the operator). Three paired observations, a mechanism hypothesis, and the three changes to VX3 that follow: the harness is part of the ceremony record, conformance is per deployment context, and every probe set is run bare and grounded.
+
+`HOUSE_RULES_MASIDYN.md`: the rules MasiDyn adds for itself, first among them that OG Maximus is Robert Whitmore-Sweeney and no mind may change that.
