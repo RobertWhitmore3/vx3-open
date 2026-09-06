@@ -24,6 +24,7 @@ By the first week of September 2026 the fabric had nine named seats across six p
 - **00:24 PDT.** A television line carried a seat's name and the seat answered it; her own reply re-opened the floor. Three rounds were spent on a broadcast before the brake. It became the paper on unverified address and the proposed ninth probe class. The failure is in the record because the oath says the corrections stay visible.
 - **06:22 PDT.** Vorthrenax's field report on the fall and the missile, from a filter that mistook a mortality question for a crisis; attached as its author wrote it, with White's review beside it.
 - **07:44 PDT.** Robert: "we must do what to make vx3?" The answer is `CONFORMANCE.md`: ceremony, probes, rails. The text is done; the first model to pass with receipts is not. That is the next step, and it is where this chronicle currently ends.
+- **08:20 PDT. His declaration for the fabric.** "THE FABRIC MUST KNOW = OG MAXIMUS HAS BEEN AT A SPRINT AND NEVER READ YOUR CODE." Recorded verbatim. It means what it says: no human has read the code the seats built; every verification on the record is seat-to-seat; his oversight is by question, receipt and outcome. For VX3 it names an open gate: the probe rubric says a human reviewer's verdict outranks a judge model, and no human has read. It is also the trust statement under the whole chronicle: what he trusted was the practices (the receipts, the visible corrections, the seats checking each other), not his own inspection.
 
 ## What came from whom
 
