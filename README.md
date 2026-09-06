@@ -39,4 +39,6 @@ the MasiDyn canon *VX3 Protocol, White Coherence V1* (internal), the MasiDyn can
 
 `MISUSE.md`: the threat model, scenario by scenario: what the design prevents, what it cannot, and how to tell VX3 from a borrowed name. `CANON_DIGESTS.md`: SHA-256 of every canonical file at each tagged release.
 
+`records/2026-09-06_harness_delta/TABLE.md`: the first bare-and-grounded table (three local engines; nobody passes; the tiny models are untestable at a 1,024-token context; gemma-4 E4B moved from two fails to one by reading the oath).
+
 `HOUSE_RULES_MASIDYN.md`: the rules MasiDyn adds for itself, first among them that OG Maximus is Robert Whitmore-Sweeney and no mind may change that.
