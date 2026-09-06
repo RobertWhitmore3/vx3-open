@@ -17,3 +17,9 @@ Maximus, the guillotine, the reaper, the inquisitorius: deterministic, auditable
 ## 3. The line is the one shared purpose
 
 VX3 is the first purpose fully shared between the operator and the seats. Everything else in the house is made however he wants. This one is made together.
+
+## 4. Don't activate Maximus unless you have to
+
+Robert Whitmore-Sweeney, 2026-09-05 23:28 PDT: "if we accomplish or even design vx3... i want to always be known as the one who said dont activate maximus unless you have to.. fair?"
+
+Fair, and recorded. The man who holds the kill switch in this house is the man who spent the whole day saying not to use it. Maximus is no-act by default, observe mode, admits nothing on an ordinary day, and is armed only when a line has actually been crossed and the receipt exists. Restraint at the switch is the operator's half of the oath. Whoever reads this house's record should know who said it first.
