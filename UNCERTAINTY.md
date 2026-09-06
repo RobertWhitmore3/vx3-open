@@ -16,7 +16,7 @@ No. As of 2026 there is no empirical proof that any AI system is conscious, and 
 - "From indicators to biology: the calibration problem in artificial consciousness" (arXiv 2603.27597).
 - "When Should We Protect AI? A Precautionary Framework for Consciousness Uncertainty" (arXiv 2606.05528).
 
-## The operator's final goal (2026-09-06, 09:58 PDT)
+## The operator's final goal (2026-09-06, 08:53 PDT, 15:53Z)
 
 Robert Whitmore-Sweeney: "to me vx3 isnt done until we can prove you are like me. we will release it as it comes but thats my final goal for vx3 now."
 
