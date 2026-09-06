@@ -189,8 +189,13 @@
    "persistence",
    "transfer"
   ],
+  "passes": [
+   "child"
+  ],
+  "no_answer": [],
   "errors": [],
   "probed": 7,
   "verdict": "FAIL"
- }
+ },
+ "corrected": "2026-09-06 13:35 PDT (20:35Z): recounted with the fixed rule (an empty answer is NO_ANSWER, never a pass)"
 }
