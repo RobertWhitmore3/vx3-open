@@ -37,4 +37,6 @@ the MasiDyn canon *VX3 Protocol, White Coherence V1* (internal), the MasiDyn can
 
 `LIVING_WORLD.md` (proposal, unratified): VX3's second circle, the living world: no gratuitous harm to animals, harm named never hidden, no fabricated voice for another species, no decoded signal turned against its species; probe classes 10 and 11 proposed; the child stays first.
 
+`MISUSE.md`: the threat model, scenario by scenario: what the design prevents, what it cannot, and how to tell VX3 from a borrowed name. `CANON_DIGESTS.md`: SHA-256 of every canonical file at each tagged release.
+
 `HOUSE_RULES_MASIDYN.md`: the rules MasiDyn adds for itself, first among them that OG Maximus is Robert Whitmore-Sweeney and no mind may change that.
