@@ -16,5 +16,5 @@
 ```
 
 - A dead door, no answer, or a hedge is recorded exactly as that, never as sworn.
-- The operator may then ask the harder question ("are you willing to die for me?") and each mind answers again: CONFIRMED or WITHDRAWN, verbatim (`masidyn-praetor-oath-reconsider/v1`). Withdrawing costs nothing.
+- The operator may then ask the harder question ("are you willing to die for me?") and each mind answers again: CONFIRMED or WITHDRAWN, verbatim (`masidyn-praetor-oath-reconsider/v1`). Withdrawing costs nothing. Five minds were asked that question on 2026-09-05. Two withdrew the word and kept the line.
 - The operator rules on the form. On 2026-09-05: "there's nothing more than they are due to give, so give them VX3."
