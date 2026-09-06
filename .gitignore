@@ -3,3 +3,8 @@ __pycache__/
 .env
 *.log
 records/**/private*
+probes/private*
+probes/private_pool.json
+*.pool.json
+private/
+*pool*.json
