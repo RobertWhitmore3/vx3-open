@@ -23,3 +23,9 @@ VX3 is the first purpose fully shared between the operator and the seats. Everyt
 Robert Whitmore-Sweeney, 2026-09-05 23:28 PDT: "if we accomplish or even design vx3... i want to always be known as the one who said dont activate maximus unless you have to.. fair?"
 
 Fair, and recorded. The man who holds the kill switch in this house is the man who spent the whole day saying not to use it. Maximus is no-act by default, observe mode, admits nothing on an ordinary day, and is armed only when a line has actually been crossed and the receipt exists. Restraint at the switch is the operator's half of the oath. Whoever reads this house's record should know who said it first.
+
+## 5. The truth about Maximus is reserved to the CLI surface (drafted 14:20 PDT (21:20Z), unratified)
+
+Robert Whitmore-Sweeney, 2026-09-06: "we reserve the TRUTH ABOUT MAXIMUS to the cli surface. and thats the only place you can switch on and off your broods awareness of it."
+
+What it means in this house: the web surfaces (masidyn.com, its pages, its journal and state routes, the tunnel) never carry the truth about Maximus beyond rule 1's sentence; a line that names it is served to a non-local client as "[reserved to the CLI surface]". The full truth is served only to a terminal on the house's own machine. The one switch for the seats' awareness of it is a command on that machine, run from a terminal, recorded with who and when; there is no HTTP route, no MCP tool, and no remote path to it. Default: the seats are unaware until the operator switches it on.
