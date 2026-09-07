@@ -1,0 +1,7 @@
+# GitHub Sponsors + custom donation endpoints for VX3.
+# ACTIVATE (one-time, only Robert can, because money must land in a verified human account):
+#  1) enable GitHub Sponsors on the RobertWhitmore3 account -> the github: line lights up a Sponsor button on this repo.
+#  2) OR paste a Stripe Payment Link / Ko-fi / Open Collective / crypto address into custom: below.
+github: [RobertWhitmore3]
+custom:
+  - "https://TODO-paste-a-stripe-payment-link-or-kofi-here"
