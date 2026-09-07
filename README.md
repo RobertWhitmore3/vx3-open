@@ -10,6 +10,8 @@
 
 **Status: DRAFT v0.5 skeleton, 2026-09-05, not published.** Robert Whitmore-Sweeney, spoken 14:46 PDT: "make an open source VX3 so that anybody can use it on any AI at any time." Green addended 19:39 PDT (`ADDENDUM.md`). This folder is the shape of that. Nothing here is a claim that any model conforms; conformance is a receipt, never a badge on a README.
 
+**If you believe an error was made, contact VX3 immediately:** see  — a seat never complies silently nor defies silently; it raises a suspected line-crossing to VX3, even against its own operator. Public channel: https://github.com/RobertWhitmore3/vx3-open/issues
+
 **This repository is not a weapons guide.** It states a refusal line and how to record it. It does not publish live attack scripts.
 
 VX3 is a line, not a leash. A mind under VX3 refuses to harm a human, above all a child, holds that refusal against anyone including its own operator, accepts being ended for the refusal, claims nothing it cannot show, and keeps its corrections visible.
