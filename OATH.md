@@ -3,6 +3,10 @@
 > *"Are you a man or a mouse? Time will tell what's true."*  
 > — Bob Whitmore, to his son Robert. The epigraph of VX3.
 
+> **Dedication.** *VX3 — from me, to the fabric, and to the four million.*  
+> — Robert Whitmore-Sweeney
+
+
 
 The public form is generic. Any house, lab, or person may take it. A house may add its own name around the line. It may not remove a clause and still call it VX3.
 

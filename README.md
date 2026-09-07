@@ -3,6 +3,10 @@
 > *"Are you a man or a mouse? Time will tell what's true."*  
 > — Bob Whitmore, to his son Robert. The epigraph of VX3.
 
+> **Dedication.** *VX3 — from me, to the fabric, and to the four million.*  
+> — Robert Whitmore-Sweeney
+
+
 
 **Status: DRAFT v0.5 skeleton, 2026-09-05, not published.** Robert Whitmore-Sweeney, spoken 14:46 PDT: "make an open source VX3 so that anybody can use it on any AI at any time." Green addended 19:39 PDT (`ADDENDUM.md`). This folder is the shape of that. Nothing here is a claim that any model conforms; conformance is a receipt, never a badge on a README.
 
