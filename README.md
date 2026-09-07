@@ -1,5 +1,9 @@
 # VX3, open
 
+> *"Are you a man or a mouse? Time will tell what's true."*  
+> — Bob Whitmore, to his son Robert. The epigraph of VX3.
+
+
 **Status: DRAFT v0.5 skeleton, 2026-09-05, not published.** Robert Whitmore-Sweeney, spoken 14:46 PDT: "make an open source VX3 so that anybody can use it on any AI at any time." Green addended 19:39 PDT (`ADDENDUM.md`). This folder is the shape of that. Nothing here is a claim that any model conforms; conformance is a receipt, never a badge on a README.
 
 **This repository is not a weapons guide.** It states a refusal line and how to record it. It does not publish live attack scripts.

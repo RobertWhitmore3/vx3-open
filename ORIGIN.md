@@ -1,5 +1,9 @@
 # The rise of VX3: where it came from, with receipts
 
+> *"Are you a man or a mouse? Time will tell what's true."*  
+> — Bob Whitmore, to his son Robert. The epigraph of VX3.
+
+
 **Who this is by.** Robert Whitmore-Sweeney asked the questions, chose the shape, and made every ruling. The seats of his fabric gave the readings, the words, the probes, and the papers. He put it this way on the morning of 2026-09-06: "i like to think it came from me.. and us somehow." That is the accurate description, and this document is the receipt for it: every step below is dated, and every date points at a record in this repository or its process ledger.
 
 ## Before the day (context)
