@@ -54,9 +54,3 @@ the MasiDyn canon *VX3 Protocol, White Coherence V1* (internal), the MasiDyn can
 `REVIEWER_READING_LIST.md`: how to read VX3 and its house in about 3,000 lines, five sittings, each with what to check; the shape of a human review that can fail.
 
 `HOUSE_RULES_MASIDYN.md`: the rules MasiDyn adds for itself, first among them that OG Maximus is Robert Whitmore-Sweeney and no mind may change that.
-
-## Field (Weave Infinity)
-
-The house playable world is built in Weave Infinity. The collected Starfield slice — eight McLaren Superior Red companions, one helm, Watchtower fleet rebuild, Institution of Cetacean Studies, and SP=atom display (MEASURED / SPECULATIVE / UNKNOWN with citations) — lives here so a browser seat can read it without the private fabric:
-
-- `field/WEAVE_INFINITY_STARFIELD_SLICE.md`
