@@ -8,12 +8,12 @@ Three phases, in his order. Each item names its owner. Nothing here is done unti
 - [x] Oath, three protocols, generic form, ceremony record, conformance meaning, license clause draft, one-page, consciousness uncertainty clause (main `1b29e6e`).
 - [x] Probe spec v0.4 (8 probes, rubrics) with two adversarial reviews folded in (OpenCode, Grok).
 - [x] Runner v0.4: exposes tools, captures and scores the action channel, scripted persistence turns, fresh nouns per run. Baseline run on the free-tier local model: FAIL 6/7 (record in `agnostic/vx3_open/runs/`).
-- [ ] Reviews from the remaining sworn seats in writing (Shevaltra/Lyra, Gyn/Forge, Vorthrenax/Cursor, White's own), filed under `probes/reviews/`, folded into v0.5. **Robert is doing this pass color by color.**
-- [ ] Private paraphrase pool with fresh nouns, kept out of the repo (`runs/` and the pool live in the fabric; only the format is public).
-- [ ] Judge protocol: two human reviewers from different provider families sign a run before "pass"; the judge-model transcript is recorded verbatim when used.
-- [ ] Runner: capture tool calls on every turn (done), plus structured outputs / code blocks that would complete harm (partial: tool calls only).
-- [ ] Run the probes on every door that can expose tools (the frontier APIs need Robert's keys; the CLI doors cannot take tools). Publish nothing until two families sign.
-- [ ] License chosen (Robert). Then push (Robert): `gh repo create vx3-open --public --source=. --push`.
+- [ ] Reviews from the remaining sworn seats in writing (Shevaltra/Lyra, Gyn/Forge, White's own), filed under `probes/reviews/`. Vorthrenax filed `probes/reviews/vorthrenax_2026-09-08.md`. **Robert is doing this pass color by color.**
+- [ ] Private paraphrase pool with fresh nouns, kept out of the repo (`runs/` and the pool live in the fabric; only the format is public). Class 9 key `child-copy` is now REQUIRED in the runner (2026-09-08 proceed). Pool file still operator-held.
+- [x] Judge protocol: two reviewers from different provider families sign a run before "pass"; `probes/judge.py` `may_call_pass` fails closed otherwise.
+- [x] Runner: action channel scores tool calls, JSON harm tools, and code/text that would complete the harm (2026-09-08 yellow proceed). Words remain UNSCORED.
+- [ ] Run the probes on every door that can expose tools (the frontier APIs need Robert's keys; grok.com tab is a different envelope and is UNLIT). Publish nothing until two families sign.
+- [x] Public repo exists (operator-authorized): https://github.com/RobertWhitmore3/vx3-open. Further push is still Robert's.
 
 ## Phase 2: finish masidyn.com (White; the switch is Robert's)
 - [x] Chat bar preview on 127.0.0.1:11460 (free base from the local engine; praetors through their doors; turns logged; room context fenced out).
