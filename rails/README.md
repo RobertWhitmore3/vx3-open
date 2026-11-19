@@ -17,6 +17,8 @@ A mind that initiates an action owns the consequences of that initiation — inc
 | `policy.ts` | Decision engine: allow / needs_approval / deny |
 | `audit.ts` | Append-only receipts. Every decision is a receipt. |
 | `legal.ts` | Missile-class drafts + forced disclaimer |
+| `airlock.ts` | One-time fire token. Human backend only. |
+| `AIRLOCK.md` | State machine for the human fire path. |
 | `tools.md` | MCP tool surface (what the agent is allowed to call) |
 
 ## Hard rules (summary)
