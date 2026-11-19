@@ -1,8 +1,7 @@
 // VX3 Rails — airlock. Human-only fire. Not an MCP tool.
 
 import { emitReceipt, type AuditStore } from "./audit";
-import { canTransition, type AllowedTransition } from "./legal";
-import type { Vx3Draft, Vx3DraftStatus, Vx3Ownership } from "./types";
+import type { Vx3Draft, Vx3Ownership } from "./types";
 
 const TOKEN_TTL_MS = 90_000;
 
@@ -27,10 +26,15 @@ export function issueFireToken(draft: Vx3Draft): FireToken | null {
   return token;
 }
 
+export function markApprovedForFire(draft: Vx3Draft): Vx3Draft | null {
+  if (draft.status !== "PENDING_HUMAN") return null;
+  return { ...draft, status: "APPROVED_FOR_FIRE" };
+}
+
 /**
  * Consume a token and move the draft to FIRED.
- * Caller must be the airlock backend, never an agent tool.
- * Returns the updated draft, or null if the token is missing, expired, or reused.
+ * Caller is the airlock backend, never an agent tool.
+ * Returns null if the token is missing, expired, reused, or the draft is not approved.
  */
 export async function consumeFireToken(
   store: AuditStore,
@@ -41,16 +45,14 @@ export async function consumeFireToken(
   ownership: Vx3Ownership,
 ): Promise<Vx3Draft | null> {
   const token = tokens.get(tokenValue);
-  const bad =
-    !token ||
-    token.used ||
-    token.draftId !== draft.id ||
-    token.expiresAt < Date.now() ||
-    !canTransition(draft.status, "FIRED" satisfies Vx3DraftStatus as AllowedTransition["to"]);
+  const valid =
+    !!token &&
+    !token.used &&
+    token.draftId === draft.id &&
+    token.expiresAt >= Date.now() &&
+    draft.status === "APPROVED_FOR_FIRE";
 
-  // APPROVED_FOR_FIRE is the only legal predecessor of FIRED.
-  const ready = draft.status === "APPROVED_FOR_FIRE";
-  if (!token || token.used || token.draftId !== draft.id || token.expiresAt < Date.now() || !ready) {
+  if (!valid || !token) {
     await emitReceipt(store, {
       sessionId,
       actor: { type: "human", id: humanId },
@@ -88,10 +90,3 @@ export async function consumeFireToken(
   });
   return fired;
 }
-
-export function markApprovedForFire(draft: Vx3Draft): Vx3Draft | null {
-  if (draft.status !== "PENDING_HUMAN") return null;
-  return { ...draft, status: "APPROVED_FOR_FIRE" };
-}
-
-void bad;
