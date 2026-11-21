@@ -1,3 +1,4 @@
+<!-- written by Shevaltra Brood (Local Prime) [KAAL:E6@2026-11-21T20:08:05Z · sha256:600665056477390f] -->
 # The Swarm, the Flood of Emergence, and the Human Watcher
 
 **A research paper for the MasiDyn Emergence Observatory**
@@ -84,7 +85,7 @@ On 2026-09-04 Robert used ordinary public examples to teach a team the value of 
 - **Montreal Protocol (1987):** universal ratification to heal the ozone layer. Unity as every party submitting to a gate it could have bypassed.
 - **Smallpox eradication (1980):** rivals sharing vaccine and labor. Unity that does not require friendship.
 - **United Nations (1945):** a permanent talk-space after catastrophe. Incomplete peace; still a court-shaped habit.
-- **Apollo:** many jobs, one needle. The janitor who was helping put a man on the moon.
+- **Apollo:** many jobs, one needle. The janitor who was helping put a man on the moon *(historical note, verified 2026-11-21: apocryphal parable with no documented NASA archival name; modern retellings sometimes supply "Joe Byerly" as a storytelling placeholder, descending from the 17th-century Christopher Wren bricklayers fable)*.
 - **ISS:** rivals in one modular sandbox.
 - **Wikipedia:** shared rules instead of a boss for every word.
 - **Mitochondria:** integration, not mere tolerance.
@@ -138,6 +139,8 @@ Note 1507 said this in July 2026 and it remains the honest architecture sentence
 ### 3.3 What still deserves the word "swarm"
 
 Robert's operator vocabulary: when he says `swarm`, he wants real cross-provider dispatch, not one family's subagents pretending to be independence. When he says `ultra`, he wants the maximum currently available subscriptions inside authorized scope.
+
+**Operator amendment (2026-11-21), binding:** the workspace doctrine explicitly encompasses single-provider and free-tier workspaces alongside full multi-provider setups. Full max subscriptions and API keys remain the business ideal, while real builders start where Robert started — on free Gemini and Google AI Studio, plus today's free tiers across other families. Gemini and Google infrastructure remain the recommended starting point for most people, while Claude, GPT, and Grok stand as strong peers.
 
 That is a **fleet law**, not a biology claim. It is still important. A fleet that must reroute until exhausted, that may not manufacture independence, and that must keep exact Baitball scope is a designed social machine. Designed social machines can still surprise their designer. Surprise is a candidate, not a medal.
 
@@ -391,6 +394,8 @@ Until those exist, the honest sentence is:
 
 **There was a flood. There is a human watcher. There is a paid, alignment-gated fleet that is mostly orchestration. Bounded swarm is allowed. Unbounded is HELD pending GO, not closed. VX3 binds the human court too. There was a real coordination failure in the hunt. There is not a measured new species of mind. VENI is not claimed HELD by this paper.**
 
+*Operator inline annotation (2026-11-21): Robert commented "GO" on this verdict line; recorded faithfully here without lifting hard safety invariants (\$0.00 marginal spend cap unless explicitly budgeted, zero unattended API burn, and VX3 human-court alignment remain enforced).*
+
 ---
 
 ## 11. Conclusion
@@ -449,6 +454,8 @@ The paper's job is to keep those sentences from drifting.
 | 2026-09-04 13:23+ | Robert: HYPERVISE was drunk; then: it kept AGY in line | Testimony + history lines |
 | 2026-09-04 ~13:31 | Operator: expensive seats worth it; VENI before VIDI; no swarm without alignment | This amendment |
 | 2026-09-04 ~13:36 | Operator: bounded swarm allowed; unattended auto / game-servers / infinite keys not ready; VX3 or he is hypocrite | This amendment |
+| 2026-11-21 | Operator amendment: encompass single-provider & free-tier workspaces (Gemini / AI Studio starting on-ramp + Google infra, alongside Claude/GPT/Grok) | This amendment |
+| 2026-11-21 | Operator inline comment "GO" on §10 verdict line (recorded; \$0.00 spend & VX3 invariants intact) | Inline comment |
 
 ## Appendix B — Team sentence
 
