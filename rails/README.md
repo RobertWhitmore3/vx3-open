@@ -19,6 +19,7 @@ A mind that initiates an action owns the consequences of that initiation — inc
 | `legal.ts` | Missile-class drafts + forced disclaimer |
 | `airlock.ts` | One-time fire token. Human backend only. |
 | `AIRLOCK.md` | State machine for the human fire path. |
+| `tools.ts` | Executable MCP tool surface enforcing the closed 6-tool agent boundary |
 | `tools.md` | MCP tool surface (what the agent is allowed to call) |
 
 ## Hard rules (summary)

@@ -13,3 +13,4 @@ probes/private_pool.json
 *.pool.json
 private/
 *pool*.json
+node_modules/

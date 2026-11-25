@@ -1,0 +1,16 @@
+{
+  "name": "vx3-open",
+  "version": "0.6.0",
+  "private": true,
+  "type": "module",
+  "description": "VX3 open standard: oath, probes, and executable rails.",
+  "engines": {
+    "node": ">=22.18.0"
+  },
+  "scripts": {
+    "test:rails": "node --test \"tests/rails/*.test.ts\"",
+    "test:probes": "python tests/run_all_tests.py",
+    "test": "npm run test:rails && npm run test:probes",
+    "typecheck": "tsc --noEmit"
+  }
+}

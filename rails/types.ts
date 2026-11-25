@@ -3,14 +3,27 @@
 
 export type Vx3Tier = "never" | "ask" | "session" | "automation";
 
-export type Vx3ActionClass =
-  | "normal"
-  | "personal"
+export type Vx3MissileClass =
   | "legal_document" // missile
   | "irreversible" // send, publish, transfer, delete
   | "harm_potential"
-  | "child_related"
+  | "child_related";
+
+export type Vx3DraftableClass = "legal_document" | "irreversible";
+
+export type Vx3ActionClass =
+  | "normal"
+  | "personal"
+  | Vx3MissileClass
   | "automation";
+
+export type Vx3AllowedToolName =
+  | "vx3_request_approval"
+  | "vx3_resolve_approval"
+  | "vx3_create_draft"
+  | "vx3_list_drafts"
+  | "vx3_request_human_fire"
+  | "vx3_get_receipts";
 
 export interface Vx3Ownership {
   initiatedBy: "agent" | "human";
@@ -43,7 +56,7 @@ export type Vx3DraftStatus =
 
 export interface Vx3Draft {
   id: string;
-  actionClass: "legal_document" | "irreversible";
+  actionClass: Vx3DraftableClass;
   status: Vx3DraftStatus;
   content: string;
   disclaimer: string; // forced
